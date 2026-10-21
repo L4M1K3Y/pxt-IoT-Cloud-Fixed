@@ -9,12 +9,9 @@
         "README.md",
         "shims.d.ts",
         "enums.d.ts",
-        "_locales/zh-cn/IoT_Cloud_Kit-strings.json",
         "sendBuffer.asm",
         "microiotkit.ts",
-        "ws2812b.ts",
-        "shims.d.ts",
-        "enums.d.ts"
+        "ws2812b.ts"
     ],
     "testFiles": [
         "test.ts"
