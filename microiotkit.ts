@@ -410,7 +410,7 @@ namespace microIoT {
             basic.pause(50);
         }
     }
-     //% advanced=true shim=i2c::init
+     //% advanced=true shim=cloudkit_i2c::init
     function init(): void {
         return;
     }
